@@ -2,4 +2,6 @@ Rencana Konten Nam
 
 Buat vlog
 Javascript
+  - JS6
+  - Framework javascript
 Interiew

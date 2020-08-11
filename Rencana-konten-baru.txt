@@ -4,5 +4,8 @@ Buat vlog
 Javascript
   - JS6
   - Framework javascript
+    View
 Struktur data dasar
 Interiew
+  -Laravel
+Python

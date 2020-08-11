@@ -1,5 +1,5 @@
 Nam Resolusi
 1. Belajar python
 2. Ngerjain tesis
-3. Belajar sql
-4. Kolaborasi dengan lebih banyak expert
+3. Kolaborasi dengan lebih banyak expert
+4. Belajar Tensorflow

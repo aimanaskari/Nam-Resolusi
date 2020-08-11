@@ -4,5 +4,6 @@ Buat vlog
 Javascript
   - JS6
   - Framework javascript
-Struktur data dasar
+    Angular
+    React
 Interiew

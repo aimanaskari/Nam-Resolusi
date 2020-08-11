@@ -5,6 +5,7 @@ Javascript
   - JS6
   - Framework javascript
     View
+    React
 Struktur data dasar
 Interiew
   -Laravel

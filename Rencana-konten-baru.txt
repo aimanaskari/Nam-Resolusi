@@ -6,4 +6,7 @@ Javascript
   - Framework javascript
     Angular
     React
+Struktur data dasar
 Interiew
+  -Laravel
+Python
